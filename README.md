@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/alhabibhasan/Telet.svg?branch=master)](https://travis-ci.org/alhabibhasan/Telet)
-
 # Connect Therapy
 This is an application developed between January and March 2018 for the IoPPN
 
